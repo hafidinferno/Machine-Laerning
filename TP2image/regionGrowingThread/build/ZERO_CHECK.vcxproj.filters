@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\ACER\Desktop\TP2image\regionGrowingThread\build\CMakeFiles\6e7bcfb1b94c60c7a9c5e9e8729c7cbe\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{D2E33F6C-30D5-3A09-919C-2E92F6246F41}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

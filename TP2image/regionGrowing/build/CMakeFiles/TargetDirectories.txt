@@ -1,0 +1,3 @@
+C:/Users/ACER/Desktop/TP2image/regionGrowing/build/CMakeFiles/Tp1.dir
+C:/Users/ACER/Desktop/TP2image/regionGrowing/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/ACER/Desktop/TP2image/regionGrowing/build/CMakeFiles/ZERO_CHECK.dir

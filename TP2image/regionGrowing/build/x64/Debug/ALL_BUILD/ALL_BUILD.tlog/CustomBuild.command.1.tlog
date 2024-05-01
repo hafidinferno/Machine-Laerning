@@ -1,0 +1,10 @@
+^C:\USERS\ACER\DESKTOP\TP2IMAGE\REGIONGROWING\CMAKELISTS.TXT
+setlocal
+C:\mingw64\bin\cmake.exe -SC:/Users/ACER/Desktop/TP2image/regionGrowing -BC:/Users/ACER/Desktop/TP2image/regionGrowing/build --check-stamp-file C:/Users/ACER/Desktop/TP2image/regionGrowing/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\ACER\Desktop\TP2image\regionGrowingThread\regionGrowingThread.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\ACER\Desktop\TP2image\regionGrowingThread\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{0CC8D75B-5146-3CCF-9FE8-24E914C09FD0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
